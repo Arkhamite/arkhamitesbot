@@ -1,0 +1,17 @@
+so im creating telegram bot which helps me to write a post or just posts a memes to my tg channel
+
+So breakdown
+
+i wanna get data from reliable sources like reddit and wiki. 
+
+i need to do this steps
+
+- Data Fetcher function, Done
+
+- 
+
+- Connecting it to gemini api
+
+- then feed it to ai and create post
+
+- module that posts it to my channel
