@@ -1,7 +1,7 @@
 from google import genai
 
 
-client = genai.Client(api_key='AIzaSyBTwgZBHcLBR-Vo9Jb9fkS1TTfuvn81_6k')
+client = genai.Client(api_key='')
 
 def gemini(prompt):
     response = client.models.generate_content(
