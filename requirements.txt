@@ -4,4 +4,4 @@ requests
 apscheduler
 bs4
 google-genai
-user_agent
+fake_useragent
