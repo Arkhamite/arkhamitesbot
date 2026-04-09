@@ -19,7 +19,7 @@ from aiogram.types import Message
 from aiogram.types.reaction_type_emoji import ReactionTypeEmoji
 from aiogram.types import ReactionType
 
-TOKEN = "8145942363:AAFIHmnUA6585vOmVLLXi0T23ZOc5Nq9l_c"
+TOKEN = ""
 channel_id = -1002112088417
 bot = Bot(token=TOKEN)
 citizen = 1278478311
